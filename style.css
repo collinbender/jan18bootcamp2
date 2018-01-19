@@ -1,0 +1,13 @@
+.nav {
+  height: 80px;
+  background: darkblue;
+}
+
+.hero {
+  height: 400px;
+  background: lightblue;
+}
+.box {
+  height: 200px;
+  border: 2px solid darkblue;
+}
